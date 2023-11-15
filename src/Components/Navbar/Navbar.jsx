@@ -11,7 +11,7 @@ const Navbar = () => {
             alt="Logo"
             className="h-16 w-16"
           />
-          <h1 className="text-white text-lg font-semibold">
+          <h1 to="/" className="text-white text-lg font-semibold">
             Green-Life Hospital
           </h1>
         </div>
